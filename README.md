@@ -2,7 +2,8 @@
 
 - Hi, here is HuanJiCanShang.
 
-[![HuanJiCanShang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuanJiCanShang&show_icons=true&theme=radical)](https://github.com/HuanJiCanShang)
+![HuanJiCanShang's GitHub trophy](https://github-profile-trophy.vercel.app/?username=HuanJiCanShang)
+![HuanJiCanShang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuanJiCanShang&show_icons=true&theme=radical)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuanJiCanShang)](https://github.com/HuanJiCanShang)
