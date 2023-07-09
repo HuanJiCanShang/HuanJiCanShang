@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Hi, here is HuanJiCanShang.
+- Hi, here is HuanJiCanShang/幻寂殘傷.
 
 ![HuanJiCanShang's GitHub trophy](https://github-profile-trophy.vercel.app/?username=HuanJiCanShang)
 ![HuanJiCanShang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuanJiCanShang&show_icons=true&theme=radical)
